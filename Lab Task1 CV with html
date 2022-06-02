@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+<h1 style="text-align:center;">Curriculum Vitae</h1>
+<p>  <h3 style="text-align:left;">Gabtali,Bogura</h3>  </p>
+<p>  <h3 style="text-align:left;">Cell: +08801616141***</h3>  </p>
+
+<a href="mridulroy010@gmail.com">E-mail: mridulroy010@gmail.com</a>
+
+
+
+<p align= right ><img src="mridul1.jpg" alt="Pictue of the Student" width="150" height="150" class="center";></p>
+
+<p>  <h2 style="background-color:rgb(147, 232, 245);">Profational Goals</h2>  </p>
+<p>  <h3 style="text-align:left;">Serve as a professional software engineer in a recognozed organization</h3>  </p>
+<h3 style="text-align:left;">Work hard with sincere and honest attidu, and do everything possiable to promot the good will of the organozation and gain as much experiance as possiablel</h3>
+
+<p>  <h2 style="background-color:rgb(147, 232, 245);">Personal Information</h2>  </p>
+<p>  <h3 style="text-align:left;">Name: Mridul Kumar Roy</h3>  </p>
+<p>  <h3 style="text-align:left;">Fathar's Name: B. Roy</h3>  </p>
+<p>  <h3 style="text-align:left;">Mother's Name: K.R Roy</h3>  </p>
+<p>  <h3 style="text-align:left;">Date of Birth: 12-03-2000</h3>  </p>
+<p>  <h3 style="text-align:left;">Nationality: Bangladeshi</h3>  </p>
+<p>  <h3 style="text-align:left;">Religion:Hindhu</h3>  </p>
+<p>  <h3 style="text-align:left;">Blood Group: O+(ve)</h3>  </p>
+<p>  <h3 style="text-align:left;">Marital status: Unmarried</h3>  </p>
+<p>  <h3 style="text-align:left;">Present address: Kuratoli, Kuril,Vhatara,Dhaka</h3>  </p>
+<p>  <h3 style="text-align:left;">Parmanent address: Gabtali,Bogura,Bangladesh</h3>  </p>
+<p>  <h1 style="background-color:rgb(147, 232, 245);">Educational Background</h1>  </p>
+<p>  <h3 style="text-align:left ;background-color:rgb(147, 232, 245);">B.S.c in Computer Science</h3>  </p>
+<table border="5">
+    <tr>
+      <th>Subject :</th>
+      <td>Computer Science and Engineer</td>
+    
+    </tr>
+    <tr>
+      <td>Result :</td>
+      <td>3.80</td>
+   
+    </tr>
+    <tr>
+        <td>Duration :</td>
+        <td>2020-2024</td>
+     
+      </tr>
+      <tr>
+        <td>Year of pass :</td>
+        <td>2024</td>
+        <tr>
+            <td>University :</td>
+            <td>Amirican Internationl University-Bangladesh</td>
+      </tr>
+
+
+    </tr>
+  </table>
+
+
+  <p>  <h3 style="text-align:left;background-color:rgb(147, 232, 245)">Higher Secondary Certificate</h3>  </p>
+<table border="3">
+    <tr>
+      <th>Group :</th>
+      <td>Science</td>
+    
+    </tr>
+    <tr>
+      <td>GPA :</td>
+      <td>5.00</td>
+   
+    </tr>
+
+      <tr>
+        <td>Year of pass :</td>
+        <td>2019</td>
+        <tr>
+            <td>Institute :</td>
+            <td>Govt, Shah sultan College</td>
+      </tr>
+
+
+    </tr>
+  </table>
+
+
+  
+  <p>  <h3 style="text-align:left;background-color:rgb(147, 232, 245)">Secondary Certificate</h3>  </p>
+<table border="3">
+    <tr>
+      <th>Group :</th>
+      <td>Science</td>
+    
+    </tr>
+    <tr>
+      <td>GPA :</td>
+      <td>5.00</td>
+   
+    </tr>
+
+      <tr>
+        <td>Year of pass :</td>
+        <td>2016</td>
+        <tr>
+            <td>Institute :</td>
+            <td>D.M.L.High School</td>
+      </tr>
+
+
+    </tr>
+  </table>
+  <p>  <h2 style="background-color:rgb(147, 232, 245);">Language Proficiency</h2>  </p>
+  <p>  <h3 style="text-align:left;">Proficient in reading, listening and speaking in Bangla and English</h3>  </p>
+
+  <p>  <h2 style="background-color:rgb(147, 232, 245);">Key Qualities</h2>  </p>
+
+  <ol>
+    <li>Strong desire to live a dignified and honest life </li>
+    <li>Hard-working</li>
+    <li>Strongly desire for result</li>
+    <li>Able to assume responsibilities</li>
+  </ol>
+  <p>  <h2 style="background-color:rgb(147, 232, 245);">Interest</h2>  </p>
+  <ul>
+    <li>Reading books</li>
+    <li>Web Development</li>
+    <li>Watching Movies</li>
+  </ul>
+  
+
+  <p>  <h2 style="text-align:left;">Signature</h2>  </p>
+  <p>  <h4 style="text-align:left;">Mridul</h4>  </p>
+
+</style>
+</body>
+</html>
